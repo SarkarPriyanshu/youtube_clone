@@ -1,4 +1,4 @@
-#Youtube Clone
+## Youtube Dummy Clone
 
 Basic Youtube dummy clone where I had used React class as well as functionl component and also used new Third party librery called Symantic ui.
 
