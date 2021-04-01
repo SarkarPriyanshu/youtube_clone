@@ -1,0 +1,25 @@
+.video-item {
+  cursor: pointer;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  padding: 0 0.3rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 0.3rem 0;
+}
+
+.video-item-thumbnail {
+  width: 30%;
+}
+
+.video-item-thumbnail > img {
+  width: 100%;
+}
+
+.video-item-description {
+  text-align: center;
+  width: 70%;
+  padding: 0 0.5rem;
+}

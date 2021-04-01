@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* .Content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.Video-Player {
+  width: 70%;
+}
+
+.Video-List {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+} */
